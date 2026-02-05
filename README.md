@@ -81,21 +81,7 @@ Researchers are encouraged to report:
 
 FRTR-Bench is introduced alongside the **FRTR (From Rows to Reasoning)** framework in:
 
-> *From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding*
-
 The benchmark is designed to complement (and extend beyond) existing datasets such as SpreadsheetLLM and SpreadsheetBench.
 
 ---
-
-## Citation
-
-If you use FRTR-Bench in your research, please cite:
-
-```bibtex
-@article{gulati2025frtr,
-  title={From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding},
-  author={Gulati, Anmol and Sen, Sahil and Sarguroh, Waqar and Paul, Kevin},
-  year={2025}
-}
-```
 
