@@ -1,0 +1,10 @@
+{
+  "max_length": 60000,
+  "xlsx_meta_analysis_prompt": "excel_processor_v2_explanation.md",
+  "use_xlsx_processor_in_main_prompt": false,
+  "token_budget": 64000,
+  "retry": 1,
+  "enable_early_stop": true,
+  "excel_workflow": "excel2csv",
+  "large_dataset": false
+}
